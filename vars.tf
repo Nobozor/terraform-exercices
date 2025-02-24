@@ -30,6 +30,6 @@ variable "number_of_containers" {
 
 variable "port_container_external" {
     type = number
-    default = 3000
+    default = 4000
     description = "value of external port"
 }
